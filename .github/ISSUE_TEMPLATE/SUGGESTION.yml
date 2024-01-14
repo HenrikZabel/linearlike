@@ -21,8 +21,8 @@ body:
       description: Please indicate whether this website (or the design) was created by you. If there are any similarities, we will definitely add the site to the list!
       multiple: false
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
     validations:
       required: true
   - type: checkboxes
