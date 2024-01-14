@@ -59,10 +59,10 @@ I plan to create a design library with components for React (or other frameworks
 
 ## Contributing
 
-Feel free to contribute by adding more websites that fit the likelinear aesthetic.
-Just open an issue and use the provided template.
+Feel free to contribute by adding more websites that fit the likelinear aesthetic and open an issue with the template "✨ Website suggestion".
 I plan to create a design library (like [shadncn/ui](https://ui.shadcn.com/)) with components for React (other frameworks are also welcome) that have this "linear touch". If you are a designer and/or programmer and would like to start such a project, please contact me!
 
+If the design of a website has changed, a website is offline or there are other problems with a list entry, please open an issue with the template "❌ Remove website".
 
 ## License
 
