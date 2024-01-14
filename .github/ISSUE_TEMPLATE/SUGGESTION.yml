@@ -1,0 +1,34 @@
+name: ✨ Website suggestion
+description: Suggest an website that looks like Linear
+title: "✨ "
+labels: [✨ suggestion]
+body:
+  - type: input
+    attributes:
+      label: What website are you suggesting?
+      placeholder: E.g. Resend
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Link to the website
+      placeholder: E.g. linear.app
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Did you build this website?
+      description: Please indicate whether this website (or the design) was created by you. If there are any similarities, we will definitely add the site to the list!
+      multiple: false
+      options:
+        - Yes
+        - No
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Additional information
+      description: Please check all the boxes that apply
+      options:
+        - label: I searched for similiar suggestions or [websites](https://github.com/HenrikZabel/linearlike/blob/main/README.md) and found none.
+          required: true
