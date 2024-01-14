@@ -28,7 +28,7 @@ body:
       required: false
   - type: checkboxes
     attributes:
-      label: Additional information
+      label: Required
       description: Please check all the boxes that apply
       options:
         - label: I searched for similiar removal requests and found none.
