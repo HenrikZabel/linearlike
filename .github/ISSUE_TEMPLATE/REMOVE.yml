@@ -1,0 +1,35 @@
+name: ❌ Remove website
+description: Suggestion to remove a website from the list
+title: "❌ Remove website"
+labels: [❌ removal]
+assignees:
+  - henrikzabel
+body:
+  - type: input
+    attributes:
+      label: What website should be removed?
+      placeholder: E.g. Resend
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Why should the website be removed?
+      multiple: false
+      options:
+        - Design is no longer similar
+        - Website is offline
+        - Other (explanation below)
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Additional information
+    validations:
+      required: false
+  - type: checkboxes
+    attributes:
+      label: Additional information
+      description: Please check all the boxes that apply
+      options:
+        - label: I searched for similiar removal requests and found none.
+          required: true
