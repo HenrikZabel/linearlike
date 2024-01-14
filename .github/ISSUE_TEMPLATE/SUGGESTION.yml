@@ -1,7 +1,9 @@
 name: ✨ Website suggestion
 description: Suggest an website that looks like Linear
-title: "✨ "
+title: "✨ Website suggestion"
 labels: [✨ suggestion]
+assignees:
+  - henrikzabel
 body:
   - type: input
     attributes:
