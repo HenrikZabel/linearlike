@@ -10,8 +10,13 @@ I plan to create a design library with components for React (or other frameworks
 
 ## Websites
 
+### A
+- [Astro](https://astro.build/)
+
 ### C
 - [Codecrafters](https://codecrafters.io/)
+- [Clerk](https://clerk.com/)
+- [Cursor](https://cursor.sh/)
 
 ### F
 - [Fig](https://fig.io/)
