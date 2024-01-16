@@ -25,16 +25,16 @@ I plan to create a design library with components for React (or other frameworks
 - [Helicone](https://www.helicone.ai/)
 
 ### I
-- [invopop.com](https://www.invopop.com/)
+- [Invopop](https://www.invopop.com/)
 
 ### J
 - [Joinclicki](https://joinclicki.com/)
 
 ### L
-- [linear.app](https://linear.app/)
+- [Linear](https://linear.app/)
 
 ### M
-- [Markprompt.com](https://markprompt.com/)
+- [Markprompt](https://markprompt.com/)
 
 ### O
 - [Openstatus](https://www.openstatus.dev/)
