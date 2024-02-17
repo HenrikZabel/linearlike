@@ -35,6 +35,10 @@ I plan to create a design library with components for React (or other frameworks
 
 ### M
 - [Markprompt](https://markprompt.com/)
+- [Mintlify Writer](https://writer.mintlify.com/)
+
+### N
+- [NextUI](https://nextui.org/)
 
 ### O
 - [Openstatus](https://www.openstatus.dev/)
@@ -46,6 +50,7 @@ I plan to create a design library with components for React (or other frameworks
 ### R
 - [Reflect](https://reflect.app/)
 - [Resend](https://resend.com/)
+- [Redefine](https://refine.dev/)
 
 ### S
 - [Scale](https://scale.com/)
@@ -58,6 +63,9 @@ I plan to create a design library with components for React (or other frameworks
 - [Vercel](https://vercel.com/)
 - [Vercel design](https://vercel.com/design/)
 - [Volta](https://volta.net/)
+
+### W
+- [Coherence](https://www.withcoherence.com/)
 
 ### 7
 - [7i7](https://www.7i7.de/)
