@@ -55,6 +55,7 @@ I plan to create a design library with components for React (or other frameworks
 ### S
 - [Scale](https://scale.com/)
 - [shadencn/ui](https://ui.shadcn.com/)
+- [Superhuman](https://superhuman.com/)
 
 ### T
 - [Turbo](https://turbo.build/)
