@@ -7,6 +7,9 @@ For contribution look down below. I am happy about every new site that I can add
 
 I plan to create a design library with components for React (or other frameworks) that have this linear touch. If you are a designer and/or programmer, please contact me!
 
+# Information
+This repo appears to be outdated as many of the websites listed have changed their styling.
+
 
 ## Websites
 
